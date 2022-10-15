@@ -1,0 +1,15 @@
+:root {
+    /* FONTES */
+    --fonte: 'VT323', monospace;
+    /* CORES */
+    --branco: #F3F3F3;
+    --dark: #070D12;
+    --rosa: #E126D9;
+    --verde: #02D08F;
+    --verde-escuro: #06C185;
+    --cinza: #B8BBC5;
+    --cinza-escuro: #262626;
+    --cinza-medio: #414141;
+    --azul: #1D87BD;
+    --cinza-github: #545454;
+}
